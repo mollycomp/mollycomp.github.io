@@ -11,14 +11,10 @@ color: green;
 h3{
   font-family: cursive;
   color: grey;
-
-.nav{
-  display: inline-block;
-  width: 25px;
-  background-color: teal;
-}
   
- .img-circle{
-   border-radius: 50%;
-  }
- 
+.nav{
+  position: fixed;
+  top: 0;
+  display: inline-block;
+  width: 100%;
+}
