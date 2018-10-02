@@ -8,6 +8,6 @@ font-family: Times New Roman;
 color: teal
 }
 
-nav{
-  display: inline;
+.nav{
+  display: inline-block;
 }
