@@ -17,4 +17,8 @@ h3{
   width: 25px;
   background-color: teal;
 }
+  
+ .img-circle{
+   border-radius: 50%
+  }
  
