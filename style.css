@@ -1,5 +1,11 @@
+body{
+  text-align: center;
+  width: 100%;
+}
+
 h1{
 font-family: 'Londrina Outline', cursive;
+font-size: 42px;
 color: rgb(250, 190, 254);
 }
 
@@ -8,9 +14,10 @@ font-family: 'Lobster', cursive;
 color: black;
 }
 
-h3{
-  font-family: cursive;
-  color: grey;
+p{
+  font-family: 'Bai Jamjuree', sans-serif;
+  color: black;
+}
   
 ul{
   list-style-type: none;
