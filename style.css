@@ -5,14 +5,14 @@ color: maroon;
 
 h2{
 font-family: 'Lobster', cursive;
-color: green;
+color: black;
 }
 
 h3{
   font-family: cursive;
   color: grey;
   
-.nav{
+ul{
   list-style-type: none;
   margin: 0;
   padding: 0;
