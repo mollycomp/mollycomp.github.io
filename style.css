@@ -1,10 +1,10 @@
 h1{
-font-family: 'Lobster', cursive;
+font-family: 'Londrina Outline', cursive;
 color: maroon;
 }
 
 h2{
-font-family: Times New Roman;
+font-family: 'Lobster', cursive;
 color: green;
 }
 
@@ -12,14 +12,18 @@ h3{
   font-family: cursive;
   color: grey;
   
-.nav{
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
   position: fixed;
   top: 0;
-  display: inline-block;
+  display: inline;
   width: 100%;
   border: 1px solid #e7e7e7;
   background-color: #f3f3f3;
 }
+  
   li {
     color: #666;
 }
