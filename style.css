@@ -4,6 +4,35 @@ body{
   margin-top: 100px;
 }
 
+header {
+  background-color: #466995;
+  border-bottom: 1px solid #466995;
+  position: fixed;;
+  width: 100%;
+  z-index: 10;
+}
+
+ul {
+  margin: 30px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+li {
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 80px;
+}
+
+li:hover {
+  color: #DBE9EE;
+}
+
+
 h1{
 font-family: 'Londrina Outline', cursive;
 font-size: 52px;
@@ -18,20 +47,4 @@ color: black;
 p{
   font-family: 'Bai Jamjuree', sans-serif;
   color: black;
-}
-  
-ul{
-  list-style-type: none;
-  align: left;
-  margin: 0;
-  padding: 0;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  border: 1px solid #e7e7e7;
-  background-color: #f3f3f3;
-}
-  
-  li {
-    color: #666;
 }
