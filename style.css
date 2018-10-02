@@ -8,6 +8,10 @@ font-family: Times New Roman;
 color: yellow;
 }
 
+h3{
+  font-family: cursive;
+  color: grey;
+
 .nav{
   display: inline-block;
   width: 25px;
