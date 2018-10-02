@@ -1,12 +1,12 @@
 body{
   text-align: center;
   width: 100%;
-  margin-top: 50px;
+  margin-top: 130px;
 }
 
 h1{
 font-family: 'Londrina Outline', cursive;
-font-size: 42px;
+font-size: 52px;
 color: rgb(250, 190, 254);
 }
 
@@ -22,6 +22,7 @@ p{
   
 ul{
   list-style-type: none;
+  align: left;
   margin: 0;
   padding: 0;
   position: fixed;
