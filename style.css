@@ -15,5 +15,5 @@ h3{
 .nav{
   display: inline-block;
   width: 25px;
-  color: teal;
+  background-color: teal;
 }
