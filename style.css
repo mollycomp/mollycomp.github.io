@@ -1,7 +1,7 @@
 body{
   text-align: center;
   width: 100%;
-  margin-top: 300px;
+  margin-top: none;
 }
 
 header {
@@ -32,16 +32,15 @@ li:hover {
   color: #DBE9EE;
 }
 
+main{
+  margin-top:120 px;
+}
+
 
 h1{
 font-family: 'Londrina Outline', cursive;
 font-size: 52px;
 color: rgb(250, 190, 254);
-}
-
-h2{
-font-family: 'Lobster', cursive;
-color: black;
 }
 
 p{
